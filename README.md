@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Python Developer with a passion for Sports.<br>I am currently learning Data Science.
+I am Python Developer with a passion for Sports.<br>I am currently learning Data Science and Flutter/dart.
 
 
 ## 🌐 Socials:
