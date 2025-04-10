@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Python Developer with a passion for Sports.<br>I am currently learning NestJS and Flutter/dart.
+I am Flutter/dart Developer with a passion for Sports.<br>I am currently learning NestJS and Python.
 
 
 ## 🌐 Socials:
